@@ -1,0 +1,19 @@
+{
+  "name": "uwebsockets-for-centos.js",
+  "version": "1.0.0",
+  "description": "Compiled uWebSockets.js binaries and instructions for those running on Centos7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramiroaisen/uWebSockets.js-for-Centos7.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramiroaisen/uWebSockets.js-for-Centos7/issues"
+  },
+  "homepage": "https://github.com/ramiroaisen/uWebSockets.js-for-Centos7#readme"
+}
